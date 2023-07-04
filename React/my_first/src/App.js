@@ -83,7 +83,7 @@ import foo from "./appp.jsx";
 //             name = "Кокос"
 //             surname = "Шляпович"
 //             age = "234"
-//             gender = "хз"
+//             gender = "Что то"
 //         />
 //         <Foo
 //             image="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/11/16/12/homer-simpson.jpeg?width=1200"
