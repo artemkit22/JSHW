@@ -14,7 +14,7 @@
 // export default foo;
 
 // let foo = (props) =>{
-//     return (
+//     return(
 //         <div>
 //             <img src={props.image}/>
 //             <div>Імя: {props.name}</div>
